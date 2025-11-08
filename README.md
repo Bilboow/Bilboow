@@ -1,10 +1,10 @@
 <img src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif" alt="soura-banner">
 
 <h1 align="center">Hi 👋, I'm Abhishek Prajapati</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Bilboow&label=Profile%20views&color=0e75b6&style=flat" alt="Bilboow" /> </p>
 <br>I'm a Computer Science graduate who enjoys building full-stack applications and exploring GenAI.  <br>I work with JavaScript, React, Next.js, Node.js, and modern backend tools, and I like turning ideas into small, useful projects.  <br>Right now, I'm leveling up my skills in AI agents, system design, and production-ready full-stack development.<br><br>Thanks for stopping by — feel free to check out my latest work!
 <img img align="right" alt="Coding" width="200" src="https://valesh.dev/images/coder.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Bilboow&label=Profile%20views&color=0e75b6&style=flat" alt="Bilboow" /> </p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_fool_009) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-prajapati-071028258) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20815244) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhishekp3101@gmail.com) 
