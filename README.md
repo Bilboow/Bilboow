@@ -8,8 +8,7 @@
 I work with JavaScript, React, Next.js, and Node.js to design and ship small, well-structured applications, paying close attention to system behavior, edge cases, and trade-offs.
 
 I spend most of my time designing backend logic, improving system robustness, and integrating GenAI components where they add real value.
-
-.<br><br>Thanks for stopping by — feel free to check out my latest work!
+<br><br>Thanks for stopping by — feel free to check out my latest work!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Bilboow&label=Profile%20views&color=0e75b6&style=flat" alt="Bilboow" /> </p>
 
