@@ -3,7 +3,13 @@
 <h1 align="center">Hi 👋, I'm Abhishek Prajapati</h1>
 
 <img img align="right" alt="Coding" width="200" src="https://valesh.dev/images/coder.gif">
-<br>I'm a Computer Science graduate who enjoys building full-stack applications and exploring GenAI.  <br>I work with JavaScript, React, Next.js, Node.js, and modern backend tools, and I like turning ideas into small, useful projects.  <br>Right now, I'm leveling up my skills in AI agents, system design, and production-ready full-stack development.<br><br>Thanks for stopping by — feel free to check out my latest work!
+<br>I’m a Computer Science graduate focused on building full-stack and backend systems that are reliable, scalable, and easy to reason about.
+
+I work with JavaScript, React, Next.js, and Node.js to design and ship small, well-structured applications, paying close attention to system behavior, edge cases, and trade-offs.
+
+I spend most of my time designing backend logic, improving system robustness, and integrating GenAI components where they add real value.
+
+.<br><br>Thanks for stopping by — feel free to check out my latest work!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Bilboow&label=Profile%20views&color=0e75b6&style=flat" alt="Bilboow" /> </p>
 
